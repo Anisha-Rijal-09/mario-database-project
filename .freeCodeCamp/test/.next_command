@@ -45,3 +45,4 @@ fg
 fg
 psql --username=freecodecamp --dbname=postgres
 psql --username=freecodecamp --dbname=postgres
+psql --username=freecodecamp --dbname=second_database
